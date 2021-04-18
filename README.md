@@ -53,9 +53,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/francisnjambi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/francisnjambi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francis Njambi-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:francnjamb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:francnjamb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-francnjamb@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/mwanginjamb)
