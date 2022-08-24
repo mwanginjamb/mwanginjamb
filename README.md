@@ -4,6 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+Currently am writing information system integrations, majorly ERP Portal Integrations using Yii2 and Microsoft Dynamics Nav / BC 365 web services, Bank Integrations,
+
+Hospital and Lab Systems Integrations with ERPs and Full stack Web and Mobile Applications.
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Information Technology at Jomo Kenyatta University of Agriculture and Technology..
 - 💼 &nbsp; Working as a alternative channels lead at Iansoft Technologies Ltd, Nairobi.
