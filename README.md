@@ -12,7 +12,7 @@ Hospital and Lab Systems Integrations with ERPs and Full stack Web and Mobile Ap
 - 🎓 &nbsp; Studied Information Technology at Jomo Kenyatta University of Agriculture and Technology..
 - 💼 &nbsp; Working as lead software integrations engineers at KEMRI.
 - 🌱 &nbsp; Learning more about Node Js, Flask, Vue, Angular and React.
-- ✍️ &nbsp; Reading books of anything I can find not tech related: project management, business analysis and software engineering.
+- ✍️ &nbsp; Reading books of anything I can find not just tech related: project management, business analysis and software engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
